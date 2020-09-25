@@ -35,21 +35,21 @@ I'm a Data Scientist with a 👨‍🎓 B.Eng in Industrial Engineering from **[
 
 [Kanban Board for current WIP Project](https://github.com/users/gstdl/projects/1)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gstdl&repo=Amazon-IPhone-XR-Product-Review-Topic-Modeling&-)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gstdl&repo=Amazon-IPhone-XR-Product-Review-Topic-Modeling&-)](https://github.com/gstdl/Amazon-IPhone-XR-Product-Review-Topic-Modeling)
 
 #### Dog Classification App, a classification project
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gstdl&repo=Dog-Classification-Udacity-Project&-)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gstdl&repo=Dog-Classification-Udacity-Project&-)](https://github.com/gstdl/Dog-Classification-Udacity-Project)
 
 #### RFM Analysis, a clustering project
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gstdl&repo=e-commerce-Customer-RFM-Analysis&-)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gstdl&repo=e-commerce-Customer-RFM-Analysis&-)](https://github.com/gstdl/e-commerce-Customer-RFM-Analysis)
 
 #### Stock Analysis, a time-series analysis project
 
 [Shiny Dashboard for Stock Analysis](https://gustiadli.shinyapps.io/Stock-Analyzer/)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gstdl&repo=Stock-Analysis-Using-R&-)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gstdl&repo=Stock-Analysis-Using-R&-)](https://github.com/gstdl/Stock-Analysis-Using-R)
 
 #### Other Projects I'm working on and planning to work on
 
