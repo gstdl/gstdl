@@ -31,7 +31,7 @@ I'm a Data Scientist with a 👨‍🎓 B.Eng in Industrial Engineering from **[
 
 ### Highlighted Projects :sparkles:
 
-#### Work in Progress (WIP)
+#### Work in Progress (WIP), Topic Modeling
 
 [Kanban Board for current WIP Project](https://github.com/users/gstdl/projects/1)
 
