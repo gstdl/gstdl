@@ -55,7 +55,7 @@ I'm a Data Scientist with a 👨‍🎓 B.Eng in Industrial Engineering from **[
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gstdl&repo=Logistics_Analysis&-)](https://github.com/gstdl/Logistics_Analysis)
 
-#### Other Projects I'm working on and planning to work on
+#### Other Projects
 
 [Click here](https://github.com/users/gstdl/projects/2) to check on my other projects (projects master kanban board).
 
