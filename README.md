@@ -25,7 +25,7 @@ I'm a Data Scientist with a 👨‍🎓 B.Eng in Industrial Engineering from **[
     - Analyze production and information flow in crude palm oil production process.
 <!-- 1. **Business Operations Manager** (Full-Time) @[Lokafit](https://play.google.com/store/apps/details?id=com.shifair.lokafit&hl=en) | Mar - Dec 2016
     - Responsible in building business plan & communicating with stakeholders.-->
-3. **Supply Chain Analyst** (Full-Time) @ [PT. Pertamina (Persero)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiokNO6s4LsAhXp4HMBHTgDClMQFjAAegQIARAC&url=https%3A%2F%2Fwww.pertamina.com%2F&usg=AOvVaw2umRo0WBAuhXlbKS4uKo0S) | Feb - Mar 2016
+3. **Supply Chain Analyst** (Full-Time) @ [PT. Pertamina (Persero)](https://www.pertamina.com/) | Feb - Mar 2016
     - Analyze causes of fuel demand fluctuation during Idul Fitri.
     - Develop new layout plan to reduce operational cost of fuel distribution.
 
