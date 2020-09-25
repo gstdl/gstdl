@@ -66,7 +66,11 @@ I'm a Data Scientist with a 👨‍🎓 B.Eng in Industrial Engineering from **[
 - [![Gmail](https://img.shields.io/badge/-gmail-tomato?style=flat&logo=Gmail&logoColor=white)](mailto:gustiadli94@gmail.com)
 
 
+<!-- ### Github Stats -->
 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=gstdl)](https://github.com/gstdl/github-readme-stats) -->
 
 <!-- ![isitors](https://visitor-badge.glitch.me/badge?page_id=gstdl.gstdl) -->
 
