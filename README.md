@@ -59,7 +59,7 @@ I'm a Data Scientist with a 👨‍🎓 B.Eng in Industrial Engineering from **[
 
 [Click here](https://github.com/users/gstdl/projects/2) to check on my other projects (projects master kanban board).
 
-### How to get in touch with me 👓
+### How to get in touch 👓
 
 <!--- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gstdl) -->
 - [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/gstdl) 
