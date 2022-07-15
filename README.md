@@ -4,7 +4,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 
-- 🔭 I’m currently working as Data Engineer in Tokopedia (One of the largest e-commerce in Indonesia, serving over 140 million people)
+- 🔭 I’m currently working as Data Engineer at [Tokopedia](https://www.tokopedia.com/about/) (One of the largest e-commerce in Indonesia, serving over 140 million people)
 - 🌱 I’m currently learning about NLP, Graph Data Science, Causal Inference, and Technical Blogging
 - 👯 I’m looking to collaborate on any kind of Data Science Projects
 - 💬 Ask me about how to start a career in data, building a data portfolio, or any data related topics.
