@@ -2,8 +2,6 @@
 
 ### About me :eyes:
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
-
 - 🔭 I’m currently working as Data Engineer at [Tokopedia](https://www.tokopedia.com/about/) (One of the largest e-commerce in Indonesia, serving over 140 million people)
 - 🌱 I’m currently learning about NLP, Graph Data Science, Causal Inference, and Technical Blogging
 - 👯 I’m looking to collaborate on any kind of Data Science Projects
@@ -11,6 +9,8 @@
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/gstdl) [![Gmail](https://img.shields.io/badge/-gmail-tomato?style=flat-square&logo=Gmail&logoColor=white)](mailto:gustiadli94@gmail.com) 
 
 ### Languages and Tools :computer:
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)](https://github.com/gstdl)
 [![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)](https://github.com/gstdl)
