@@ -8,7 +8,7 @@
 - 💬 Ask me about how to start a career in data, building a data portfolio, or any data related topics.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/gstdl) [![Gmail](https://img.shields.io/badge/-gmail-tomato?style=flat-square&logo=Gmail&logoColor=white)](mailto:gustiadli94@gmail.com) 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 ### Languages and Tools :computer:
 
