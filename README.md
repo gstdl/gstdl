@@ -41,6 +41,7 @@
 
 [![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)](https://github.com/gstdl)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/gstdl)
+[![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat)](https://github.com/gstdl)
 [![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)](https://github.com/gstdl)
 
 ### Latest blogpost
