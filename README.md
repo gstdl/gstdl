@@ -43,6 +43,10 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/gstdl)
 [![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)](https://github.com/gstdl)
 
+### Latest blogpost
+
+1. [Graph database fundamentals using Neo4j](https://gstdl.github.io/my-learning-notes/graph-database-using-neo4j/)
+
 
 <!-- ### Github Stats -->
 
