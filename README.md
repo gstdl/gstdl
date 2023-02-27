@@ -3,12 +3,16 @@
 ### About me :eyes:
 
 - 🔭 I’m currently working as Data Engineer at [Tokopedia](https://www.tokopedia.com/about/) (One of the largest e-commerce in Indonesia, serving over 140 million active users)
-- 🌱 I’m currently learning about NLP, Graph Data Science, Causal Inference, and Technical Blogging
+- 🌱 I’m currently learning about [Graph Data Science](https://www.graphable.ai/blog/graph-data-science/) and Technical Blogging using [Astro](https://astro.build/)
 - 👯 I’m looking to collaborate on any kind of Data Science Projects
 - 💬 Ask me about how to start a career in data, building a data portfolio, or any data related topics.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/gstdl) [![Gmail](https://img.shields.io/badge/-gmail-tomato?style=flat-square&logo=Gmail&logoColor=white)](mailto:gustiadli94@gmail.com) 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+### Profile :computer:
+
+You can check my profile at https://www.gustiadli.com
+
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 ### Languages and Tools :computer:
 
@@ -42,20 +46,20 @@
 [![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)](https://github.com/gstdl)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/gstdl)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat)](https://github.com/gstdl)
-[![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)](https://github.com/gstdl)
+[![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)](https://github.com/gstdl) -->
 
 ### Latest blogpost
 
 1. [Graph database fundamentals using Neo4j](https://gstdl.github.io/my-learning-notes/graph-database-using-neo4j/)
 
 
-<!-- ### Github Stats -->
+### Github Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=gstdl)](https://github.com/gstdl/github-readme-stats) -->
+[![github stats](https://github-readme-stats.vercel.app/api?username=gstdl)](https://github.com/gstdl/github-readme-stats)
 
-<!-- ![isitors](https://visitor-badge.glitch.me/badge?page_id=gstdl.gstdl) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gstdl.gstdl)
 
 <!--
 **gstdl/gstdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
