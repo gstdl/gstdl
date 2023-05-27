@@ -4,8 +4,8 @@ https://gustiadli.com/
 
 ### About me :eyes:
 
-- 🔭 I’m currently working as Data Engineer at [Tokopedia](https://www.tokopedia.com/about/) (One of the largest e-commerce in Indonesia, serving over 140 million active users)
-- 🌱 I’m currently learning about [Graph Data Science](https://www.graphable.ai/blog/graph-data-science/) and Technical Blogging using [Astro](https://astro.build/)
+- 🔭 I’m currently working as Data Engineer for the data discovery platform at [Tokopedia](https://www.tokopedia.com/about/) (One of the largest e-commerce in Indonesia, serving over 140 million active users)
+- 🌱 I’m currently learning about [Graph Data Science](https://www.graphable.ai/blog/graph-data-science/), [Hugging Face](https://github.com/huggingface/course/tree/main/chapters/id), and [MLOps](https://wandb.ai/iamleonie/Intro-to-MLOps/reports/Intro-to-MLOps-Machine-Learning-Experiment-Tracking--VmlldzozMDE4NzUw) and Technical Blogging using [Astro](https://astro.build/)
 - 👯 I’m looking to collaborate on any kind of Data Science Projects
 - 💬 Ask me about how to start a career in data, building a data portfolio, or any data related topics.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/gstdl) [![Gmail](https://img.shields.io/badge/-gmail-tomato?style=flat-square&logo=Gmail&logoColor=white)](mailto:gustiadli94@gmail.com) 
@@ -61,7 +61,7 @@ You can check my profile at https://www.gustiadli.com
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=gstdl)](https://github.com/gstdl/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gstdl.gstdl)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=gstdl.gstdl) -->
 
 <!--
 **gstdl/gstdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
