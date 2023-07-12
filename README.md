@@ -58,11 +58,11 @@ You can check my profile at https://www.gustiadli.com
 1. [Graph database fundamentals using Neo4j](https://gstdl.github.io/my-learning-notes/graph-database-using-neo4j/)
 
 
-### Github Stats
+<!-- ### Github Stats -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=gstdl)](https://github.com/gstdl/github-readme-stats)
+<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=gstdl)](https://github.com/gstdl/github-readme-stats) -->
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=gstdl.gstdl) -->
 
