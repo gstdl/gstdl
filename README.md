@@ -7,7 +7,7 @@
 
 ### About me :eyes:
 
-- 🔭 I’m currently working as Data Engineer for the data discovery platform at [Tokopedia](https://www.tokopedia.com/about/) (One of the largest e-commerce in Indonesia, serving over 140 million active users)
+- 🔭 I’m currently working as Machine Learning Engineer at [Qverse](https://qverse.id)
 - 🌱 I’m currently learning about [Graph Data Science](https://www.graphable.ai/blog/graph-data-science/), [Hugging Face](https://github.com/huggingface/course/tree/main/chapters/id), and [MLOps](https://wandb.ai/iamleonie/Intro-to-MLOps/reports/Intro-to-MLOps-Machine-Learning-Experiment-Tracking--VmlldzozMDE4NzUw) and Technical Blogging using [Astro](https://astro.build/)
 - 👯 I’m looking to collaborate on any kind of Data Science Projects
 - 💬 Ask me about how to start a career in data, building a data portfolio, or any data related topics.
