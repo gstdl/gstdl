@@ -3,19 +3,18 @@
 ### Where to find me?
 
 - https://gustiadli.com/
-- https://huggingface.co/gstdl
 
 ### About me :eyes:
 
 - 🔭 I’m currently working as Machine Learning Engineer at [Qverse](https://qverse.id)
 - 🌱 I’m currently learning about [Graph Data Science](https://www.graphable.ai/blog/graph-data-science/), [Hugging Face](https://github.com/huggingface/course/tree/main/chapters/id), and [MLOps](https://wandb.ai/iamleonie/Intro-to-MLOps/reports/Intro-to-MLOps-Machine-Learning-Experiment-Tracking--VmlldzozMDE4NzUw) and Technical Blogging using [Astro](https://astro.build/)
-- 👯 I’m looking to collaborate on any kind of Data Science Projects
+- 👯 I’m looking to collaborate on any kind of Data Science and Machine Learning Projects
 - 💬 Ask me about how to start a career in data, building a data portfolio, or any data related topics.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/gstdl) [![Gmail](https://img.shields.io/badge/-gmail-tomato?style=flat-square&logo=Gmail&logoColor=white)](mailto:gustiadli94@gmail.com) 
 
 ### Profile :computer:
 
-You can check my profile at https://www.gustiadli.com
+You can check my profile and blog at https://www.gustiadli.com
 
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
@@ -51,11 +50,11 @@ You can check my profile at https://www.gustiadli.com
 [![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)](https://github.com/gstdl)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/gstdl)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat)](https://github.com/gstdl)
-[![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)](https://github.com/gstdl) -->
+[![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)](https://github.com/gstdl)
 
 ### Latest blogpost
 
-1. [Graph database fundamentals using Neo4j](https://gstdl.github.io/my-learning-notes/graph-database-using-neo4j/)
+1. [Graph database fundamentals using Neo4j](https://gstdl.github.io/my-learning-notes/graph-database-using-neo4j/) -->
 
 
 <!-- ### Github Stats -->
